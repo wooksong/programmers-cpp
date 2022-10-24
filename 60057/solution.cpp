@@ -13,7 +13,7 @@ int solution(string s) {
         size_t curLen = len;
 
         for (size_t i = 0; i < len; i += cmp_len) {
-            if (i + cmp_len  > len)
+            if (i + cmp_len > len)
                 break;
 
             string cur = s.substr(i, cmp_len);
