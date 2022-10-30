@@ -18,7 +18,6 @@
 
 2. 탐욕법
    - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp) ([42862](./42862/))
-
 #### 2020 KAKAO BLIND RECRUITMENT
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057?language=cpp) ([60057](./60057/))
 
