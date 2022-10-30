@@ -3,6 +3,7 @@
 ## [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges)
 
 1. 스택/큐
+   - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=cpp) ([12906](./12906/))
    - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=cpp) ([12909](./12909/))
 
 2. 정렬
@@ -18,7 +19,6 @@
 
 2. 탐욕법
    - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp) ([42862](./42862/))
-
 #### 2020 KAKAO BLIND RECRUITMENT
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057?language=cpp) ([60057](./60057/))
 
