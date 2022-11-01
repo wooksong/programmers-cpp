@@ -5,6 +5,7 @@
 1. 스택/큐
    - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=cpp) ([12906](./12906/))
    - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=cpp) ([12909](./12909/))
+   - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=cpp) ([42586](./42586/))
 
 2. 정렬
    - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=cpp) ([42746](./42746))
