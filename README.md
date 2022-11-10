@@ -22,6 +22,9 @@
 5. 완전탐색
    - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp) ([86491](./86491/))
    - [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=cpp) ([42840](./42840/))
+   - [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=cpp) ([42839](./42839/))
+   - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=cpp) ([42839](./42842/))
+   - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp) ([87946](./87946/))
 
 6. 탐욕법(Greedy)
    - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp) ([42862](./42862/))
