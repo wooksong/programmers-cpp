@@ -25,6 +25,8 @@
    - [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=cpp) ([42839](./42839/))
    - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=cpp) ([42839](./42842/))
    - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp) ([87946](./87946/))
+   - [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971?language=cpp) ([86971](./86971/))
+
 
 6. 탐욕법(Greedy)
    - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp) ([42862](./42862/))
