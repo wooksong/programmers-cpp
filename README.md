@@ -26,6 +26,7 @@
    - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=cpp) ([42839](./42842/))
    - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp) ([87946](./87946/))
    - [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971?language=cpp) ([86971](./86971/))
+   - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512?language=cpp) ([84512](./84512/))
 
 
 6. 탐욕법(Greedy)
