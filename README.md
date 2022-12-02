@@ -5,6 +5,7 @@
 #### 코딩테스트 고득점 Kit
 
 1. 해시
+   - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=cpp) ([42576](./42576/))
 
 2. 스택/큐
    - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=cpp) ([12906](./12906/))
